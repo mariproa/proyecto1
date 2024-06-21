@@ -1,5 +1,3 @@
-Hola soy un nuevo archivo .md
+# Perfil de Marisabel Proaño, Programador Full Stack
 
-- George Washington
-- John Adams
-- Thomas Jefferson
+Hola, esto es un ejemplo de archivo readme para personalizar mi perfil de Github
